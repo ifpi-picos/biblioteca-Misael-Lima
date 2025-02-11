@@ -1,0 +1,5 @@
+com/biblioteca/App.class
+com/biblioteca/dominio/Livro.class
+com/biblioteca/testaConexãoBD.class
+com/biblioteca/dominio/Usuario.class
+com/biblioteca/dominio/Emprestimo.class
